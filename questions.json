@@ -1,0 +1,4015 @@
+{
+ "head": {
+  "counts": {
+   "questionCount": 10000,
+   "resultCount": 10000
+  },
+  "dateRange": {
+   "start": "1900-01-01T00:00:00.000Z",
+   "end": "2099-01-01T00:00:00.000Z"
+  },
+  "lang": "mul"
+ },
+ "results": [
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_66.xml"
+      }
+     },
+     "showAs": "Childcare Services",
+     "debateSectionId": "dbsect_66",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_66"
+    },
+    "showAs": " 33. Deputy Emer Higgins asked the Minister for Children, Disability, Equality and Integration the details of the funding provided to crèches that was conditional on them not increasing their prices; the way in which the matter is being monitored; and if he will make a statement on the matter. [25943/20] ",
+    "by": {
+     "memberCode": "Emer-Higgins.D.2020-02-08",
+     "showAs": "Emer Higgins",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Higgins.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_33",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 33
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_68.xml"
+      }
+     },
+     "showAs": "Child and Family Agency",
+     "debateSectionId": "dbsect_68",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_68"
+    },
+    "showAs": " 36. Deputy Violet-Anne Wynne asked the Minister for Children, Disability, Equality and Integration if he will carry out a review into the funding model for family resource centres and other community services under the remit of Tusla. [31356/20] ",
+    "by": {
+     "memberCode": "Violet-Anne-Wynne.D.2020-02-08",
+     "showAs": "Violet-Anne Wynne",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Violet-Anne-Wynne.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_36",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 36
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_69.xml"
+      }
+     },
+     "showAs": "Child and Family Agency",
+     "debateSectionId": "dbsect_69",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_69"
+    },
+    "showAs": " 37. Deputy Catherine Connolly asked the Minister for Children, Disability, Equality and Integration the date on which the Tusla review into the provision of safe emergency accommodation for victims of domestic violence will be published; the analysis carried out by his Department and-or Tusla into the impact of the Covid-19 pandemic on the number of emergency accommodation spaces available for victims of domestic violence; and if he will make a statement on the matter. [30631/20] ",
+    "by": {
+     "memberCode": "Catherine-Connolly.D.2016-10-03",
+     "showAs": "Catherine Connolly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_37",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 37
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_70.xml"
+      }
+     },
+     "showAs": "Childcare Services",
+     "debateSectionId": "dbsect_70",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_70"
+    },
+    "showAs": " 38. Deputy Denis Naughten asked the Minister for Children, Disability, Equality and Integration the steps he plans to take to improve the pay and conditions of childcare workers; and if he will make a statement on the matter. [30625/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_38",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 38
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_71.xml"
+      }
+     },
+     "showAs": "Mother and Baby Homes Inquiries",
+     "debateSectionId": "dbsect_71",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_71"
+    },
+    "showAs": " 39. Deputy Gary Gannon asked the Minister for Children, Disability, Equality and Integration his position and actions either taken by his Department or scheduled for the future on archival infrastructure to ensure truth for mother and baby homes. [31365/20] ",
+    "by": {
+     "memberCode": "Gary-Gannon.D.2020-02-08",
+     "showAs": "Gary Gannon",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_39",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 39
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_72.xml"
+      }
+     },
+     "showAs": "Mother and Baby Homes Inquiries",
+     "debateSectionId": "dbsect_72",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_72"
+    },
+    "showAs": " 40. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability, Equality and Integration the status of the Commission of Investigation (Mother and Baby Homes and certain related Matters) Records, and another Matter, Bill 2020; and if he will make a statement on the matter. [31380/20] ",
+    "by": {
+     "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+     "showAs": "Ruairí Ó Murchú",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_40",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 40
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_73.xml"
+      }
+     },
+     "showAs": "Asylum Seekers",
+     "debateSectionId": "dbsect_73",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_73"
+    },
+    "showAs": " 41. Deputy Jennifer Whitmore asked the Minister for Children, Disability, Equality and Integration if he will expand on the provision of funding for asylum seekers; the way in which this funding will address accommodation issues in the direct provision system; and if he will make a statement on the matter. [31351/20] ",
+    "by": {
+     "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+     "showAs": "Jennifer  Whitmore",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_41",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 41
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_74.xml"
+      }
+     },
+     "showAs": "Deportation Orders",
+     "debateSectionId": "dbsect_74",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_74"
+    },
+    "showAs": " 42. Deputy Mick Barry asked the Minister for Children, Disability, Equality and Integration his views on whether a policy change is required in the interests of the safeguarding of minors in cases in which Tusla is notified that a deportation order is issued against a minor; and if he will make a statement on the matter. [30628/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_42",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 42
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_76.xml"
+      }
+     },
+     "showAs": "National Childcare Scheme",
+     "debateSectionId": "dbsect_76",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_76"
+    },
+    "showAs": " 44. Deputy Kathleen Funchion asked the Minister for Children, Disability, Equality and Integration the reason that, in order to qualify for the national childcare scheme, NCS, parents need to have a public services card, given that other Departments have done away with requiring the public services card to access their services, namely the passport service. [31308/20] ",
+    "by": {
+     "memberCode": "Kathleen-Funchion.D.2016-10-03",
+     "showAs": "Kathleen Funchion",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Kathleen-Funchion.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_44",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 44
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_77.xml"
+      }
+     },
+     "showAs": "Sick Pay Scheme",
+     "debateSectionId": "dbsect_77",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_77"
+    },
+    "showAs": " 45. Deputy Sean Sherlock asked the Minister for Children, Disability, Equality and Integration his views on introducing sick pay for early years education workers; and if he has held meetings with trade unions or member organisations relating to his brief. [31348/20] ",
+    "by": {
+     "memberCode": "Seán-Sherlock.D.2007-06-14",
+     "showAs": "Seán Sherlock",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Sherlock.D.2007-06-14"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_45",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 45
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_78.xml"
+      }
+     },
+     "showAs": "National Childcare Scheme",
+     "debateSectionId": "dbsect_78",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_78"
+    },
+    "showAs": " 46. Deputy Kathleen Funchion asked the Minister for Children, Disability, Equality and Integration if his attention has been drawn to the issues surrounding the registering of CHICK numbers as this is also having an impact on the quick turnaround of NCS applications. [31310/20] ",
+    "by": {
+     "memberCode": "Kathleen-Funchion.D.2016-10-03",
+     "showAs": "Kathleen Funchion",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Kathleen-Funchion.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_46",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 46
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_79.xml"
+      }
+     },
+     "showAs": "Early Years Sector",
+     "debateSectionId": "dbsect_79",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_79"
+    },
+    "showAs": " 47. Deputy Alan Farrell asked the Minister for Children, Disability, Equality and Integration the status of the development of career pathways in early childhood education; and if he will make a statement on the matter. [30618/20] ",
+    "by": {
+     "memberCode": "Alan-Farrell.D.2011-03-09",
+     "showAs": "Alan Farrell",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_47",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 47
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_80.xml"
+      }
+     },
+     "showAs": "Refugee Resettlement Programme",
+     "debateSectionId": "dbsect_80",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_80"
+    },
+    "showAs": " 48. Deputy Pádraig O'Sullivan asked the Minister for Children, Disability, Equality and Integration his plans to assist refugees and in particular children affected by the fire in the Moira refugee camp on Lesbos, Greece; and if he will make a statement on the matter. [29746/20] ",
+    "by": {
+     "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+     "showAs": "Pádraig O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_48",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 48
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_81.xml"
+      }
+     },
+     "showAs": "Budget 2021",
+     "debateSectionId": "dbsect_81",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_81"
+    },
+    "showAs": " 49. Deputy Jennifer Whitmore asked the Minister for Children, Disability, Equality and Integration if he will expand on the provision in budget 2021 to give an additional €5 million to youth services; if he will address existing funding anomalies in relation to existing funding streams to address funding inequalities in counties affected; and if he will make a statement on the matter. [31354/20] ",
+    "by": {
+     "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+     "showAs": "Jennifer  Whitmore",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_49",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 49
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_82.xml"
+      }
+     },
+     "showAs": "Childcare Services",
+     "debateSectionId": "dbsect_82",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_82"
+    },
+    "showAs": " 50. Deputy Paul McAuliffe asked the Minister for Children, Disability, Equality and Integration his plans for an improvement in pay and conditions for childcare workers; and if he will make a statement on the matter. [31369/20] ",
+    "by": {
+     "memberCode": "Paul-McAuliffe.D.2020-02-08",
+     "showAs": "Paul  McAuliffe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_50",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 50
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_83.xml"
+      }
+     },
+     "showAs": "Traveller Community",
+     "debateSectionId": "dbsect_83",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_83"
+    },
+    "showAs": " 51. Deputy Éamon Ó Cuív asked the Minister for Children, Disability, Equality and Integration the steps he is taking to ensure that the Traveller community enjoys real equality in society here; the programmes his Department has in place to promote equality for this community; and if he will make a statement on the matter. [30910/20] ",
+    "by": {
+     "memberCode": "Éamon-Ó-Cuív.S.1989-10-01",
+     "showAs": "Éamon Ó Cuív",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Éamon-Ó-Cuív.S.1989-10-01"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_51",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 51
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_72.xml"
+      }
+     },
+     "showAs": "Mother and Baby Homes Inquiries",
+     "debateSectionId": "dbsect_72",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_72"
+    },
+    "showAs": " 52. Deputy Paul Murphy asked the Minister for Children, Disability, Equality and Integration if the Commission of Investigation (Mother and Baby Homes and certain related Matters) Records, and another Matter, Bill 2020; if he will table amendments to provide immediate access for all affected persons and families to all records concerning them. [31314/20] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_52",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 52
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_84.xml"
+      }
+     },
+     "showAs": "Early Years Sector",
+     "debateSectionId": "dbsect_84",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_84"
+    },
+    "showAs": " 53. Deputy Neale Richmond asked the Minister for Children, Disability, Equality and Integration the status of the oversight group to oversee the development of the baby box programme; and if he will make a statement on the matter. [30832/20] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_53",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 53
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_85.xml"
+      }
+     },
+     "showAs": "Budget 2021",
+     "debateSectionId": "dbsect_85",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_85"
+    },
+    "showAs": " 54. Deputy Richard Boyd Barrett asked the Minister for Children, Disability, Equality and Integration if he will provide details of any equality proofing of budget 2021 that his Department was involved in; and if he will make a statement on the matter. [31343/20] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_54",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 54
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_86.xml"
+      }
+     },
+     "showAs": "City and County Child Care Committees",
+     "debateSectionId": "dbsect_86",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_86"
+    },
+    "showAs": " 55. Deputy Christopher O'Sullivan asked the Minister for Children, Disability, Equality and Integration if there is a timeline in place for the implementation of the Workplace Relation Commission agreement of August 2019 between SIPTU and city and county childcare committees; if funding will be provided in Budget 2021; and if he will make a statement on the matter. [31097/20] ",
+    "by": {
+     "memberCode": "Christopher-O'Sullivan.D.2020-02-08",
+     "showAs": "Christopher O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Christopher-O'Sullivan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_55",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 55
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_87.xml"
+      }
+     },
+     "showAs": "Refugee Resettlement Programme",
+     "debateSectionId": "dbsect_87",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_87"
+    },
+    "showAs": " 56. Deputy Catherine Connolly asked the Minister for Children, Disability, Equality and Integration the status of progress to fulfil his plans to expand capacity care for unaccompanied refugee children here; the timeline of same; his plans to accept more children from the Moria refugee camp; and if he will make a statement on the matter. [30630/20] ",
+    "by": {
+     "memberCode": "Catherine-Connolly.D.2016-10-03",
+     "showAs": "Catherine Connolly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_56",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 56
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_88.xml"
+      }
+     },
+     "showAs": "Budget 2021",
+     "debateSectionId": "dbsect_88",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_88"
+    },
+    "showAs": " 57. Deputy Jennifer Whitmore asked the Minister for Children, Disability, Equality and Integration if he will expand on the provisions contained in budget 2021 that intend to reduce child poverty in Ireland; and if he will make a statement on the matter. [31352/20] ",
+    "by": {
+     "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+     "showAs": "Jennifer  Whitmore",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_57",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 57
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_89.xml"
+      }
+     },
+     "showAs": "Refugee Resettlement Programme",
+     "debateSectionId": "dbsect_89",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_89"
+    },
+    "showAs": " 58. Deputy Christopher O'Sullivan asked the Minister for Children, Disability, Equality and Integration the plans in place to assist refugees and in particular children affected by the fire in the Moria refugee camp in Lesbos, Greece; and if he will make a statement on the matter. [31098/20] ",
+    "by": {
+     "memberCode": "Christopher-O'Sullivan.D.2020-02-08",
+     "showAs": "Christopher O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Christopher-O'Sullivan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_58",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 58
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_70.xml"
+      }
+     },
+     "showAs": "Childcare Services",
+     "debateSectionId": "dbsect_70",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_70"
+    },
+    "showAs": " 59. Deputy Denis Naughten asked the Minister for Children, Disability, Equality and Integration the steps he is taking or plans to take to improve the pay and conditions of childcare workers; and if he will make a statement on the matter. [30626/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_59",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 59
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_90.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_90",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_90"
+    },
+    "showAs": " 61. Deputy Kathleen Funchion asked the Minister for Children, Disability, Equality and Integration the letters issued by Pobal to providers in relation to refunds; and the reason his officials are seeking refunds from providers whose businesses are at risk of closure due to historical inadequate funding. [31307/20] ",
+    "by": {
+     "memberCode": "Kathleen-Funchion.D.2016-10-03",
+     "showAs": "Kathleen Funchion",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Kathleen-Funchion.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_61",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 61
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_91.xml"
+      }
+     },
+     "showAs": "Asylum Seekers",
+     "debateSectionId": "dbsect_91",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_91"
+    },
+    "showAs": " 62. Deputy Denis Naughten asked the Minister for Children, Disability, Equality and Integration the engagement by his Department with children within the asylum system; and if he will make a statement on the matter. [30627/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_62",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 62
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_92.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_92",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_92"
+    },
+    "showAs": " 63. Deputy Sean Sherlock asked the Minister for Children, Disability, Equality and Integration if requests for PPE have been made by childcare and early years education providers since August 2020; and if so, if he will provide a breakdown of same. [31346/20] ",
+    "by": {
+     "memberCode": "Seán-Sherlock.D.2007-06-14",
+     "showAs": "Seán Sherlock",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Sherlock.D.2007-06-14"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_63",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 63
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_94.xml"
+      }
+     },
+     "showAs": "Bereavement Leave",
+     "debateSectionId": "dbsect_94",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_94"
+    },
+    "showAs": " 64. Deputy Peadar Tóibín asked the Minister for Children, Disability, Equality and Integration the reason early childcare providers who have lost immediate family, even from Covid-19, and who take days off for the funeral have been told by his Department to make up those days. [31374/20] ",
+    "by": {
+     "memberCode": "Peadar-Tóibín.D.2011-03-09",
+     "showAs": "Peadar Tóibín",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_64",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 64
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_95.xml"
+      }
+     },
+     "showAs": "Covid-19 Tests",
+     "debateSectionId": "dbsect_95",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_95"
+    },
+    "showAs": " 65. Deputy Neale Richmond asked the Minister for Children, Disability, Equality and Integration the position regarding and status of the widespread testing plan for residents of direct provision; and if he will make a statement on the matter. [30831/20] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_65",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 65
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_96.xml"
+      }
+     },
+     "showAs": "Childcare Services",
+     "debateSectionId": "dbsect_96",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_96"
+    },
+    "showAs": " 66. Deputy Éamon Ó Cuív asked the Minister for Children, Disability, Equality and Integration his plans to make special arrangements in relation to the funding of crèches on offshore islands to ensure they are viable with a small number of children attending due to the smaller populations on islands; and if he will make a statement on the matter. [30909/20] ",
+    "by": {
+     "memberCode": "Éamon-Ó-Cuív.S.1989-10-01",
+     "showAs": "Éamon Ó Cuív",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Éamon-Ó-Cuív.S.1989-10-01"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_66",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 66
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_97.xml"
+      }
+     },
+     "showAs": "Youth Services",
+     "debateSectionId": "dbsect_97",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_97"
+    },
+    "showAs": " 67. Deputy Mark Ward asked the Minister for Children, Disability, Equality and Integration the process of the development of a youth service in an area with a growing population such as Rathcoole, County Dublin (details supplied). [24194/20] ",
+    "by": {
+     "memberCode": "Mark-Ward.D.2019-11-29",
+     "showAs": "Mark Ward",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_67",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 67
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_98.xml"
+      }
+     },
+     "showAs": "Health Services",
+     "debateSectionId": "dbsect_98",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_98"
+    },
+    "showAs": " 68. Deputy Alan Farrell asked the Minister for Children, Disability, Equality and Integration the measures being put in place to support children in statistically vulnerable groups to reduce the uptake of addictive habits such as smoking and drinking; and if he will make a statement on the matter. [30619/20] ",
+    "by": {
+     "memberCode": "Alan-Farrell.D.2011-03-09",
+     "showAs": "Alan Farrell",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_68",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 68
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_99.xml"
+      }
+     },
+     "showAs": "Ministerial Responsibilities",
+     "debateSectionId": "dbsect_99",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_99"
+    },
+    "showAs": " 69. Deputy Sean Sherlock asked the Minister for Children, Disability, Equality and Integration if he has taken formal responsibility for disability matters. [31349/20] ",
+    "by": {
+     "memberCode": "Seán-Sherlock.D.2007-06-14",
+     "showAs": "Seán Sherlock",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Sherlock.D.2007-06-14"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_69",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 69
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_100.xml"
+      }
+     },
+     "showAs": "Childcare Services",
+     "debateSectionId": "dbsect_100",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_100"
+    },
+    "showAs": " 70. Deputy Kathleen Funchion asked the Minister for Children, Disability, Equality and Integration if his attention has been drawn to the fact that there are some serious ongoing issues in terms of the service Pobal is providing for childcare providers (details supplied). [31311/20] ",
+    "by": {
+     "memberCode": "Kathleen-Funchion.D.2016-10-03",
+     "showAs": "Kathleen Funchion",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Kathleen-Funchion.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_70",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 70
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_101.xml"
+      }
+     },
+     "showAs": "Magdalen Laundries",
+     "debateSectionId": "dbsect_101",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_101"
+    },
+    "showAs": " 71. Deputy Gary Gannon asked the Minister for Children, Disability, Equality and Integration if he still accepts the sixth recommendation of a person (details supplied) to provide a suitable memorial to the victims and survivors of Magdalen laundries following the State apology made in 2013. [30368/20] ",
+    "by": {
+     "memberCode": "Gary-Gannon.D.2020-02-08",
+     "showAs": "Gary Gannon",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_71",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 71
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_102.xml"
+      }
+     },
+     "showAs": "Direct Provision System",
+     "debateSectionId": "dbsect_102",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_102"
+    },
+    "showAs": " 72. Deputy Pauline Tully asked the Minister for Children, Disability, Equality and Integration the timeframe for the publication of the White Paper on replacing the direct provision system; the details regarding funding set aside in budget 2021 to ensure implementation of the white paper; and if he will make a statement on the matter. [31383/20] ",
+    "by": {
+     "memberCode": "Pauline-Tully.D.2020-02-08",
+     "showAs": "Pauline  Tully",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pauline-Tully.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Children",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_72",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 72
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_103.xml"
+      }
+     },
+     "showAs": "Third Level Fees",
+     "debateSectionId": "dbsect_103",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_103"
+    },
+    "showAs": " 79. Deputy Mick Barry asked the Minister for Further and Higher Education, Research, Innovation and Science his views on the abolition of the student contribution to fees for third level due to it being a barrier to access to education; and if he will make a statement on the matter. [31321/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_79",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 79
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_104.xml"
+      }
+     },
+     "showAs": "Student Universal Support Ireland",
+     "debateSectionId": "dbsect_104",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_104"
+    },
+    "showAs": " 80. Deputy Gary Gannon asked the Minister for Further and Higher Education, Research, Innovation and Science if he will consider removing the rules within SUSI that do not allow students to be reclassified from the point of entry unless they take a three-year break in their education, which is unfairly targeting independent students. [31363/20] ",
+    "by": {
+     "memberCode": "Gary-Gannon.D.2020-02-08",
+     "showAs": "Gary Gannon",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_80",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 80
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_105.xml"
+      }
+     },
+     "showAs": "Student Accommodation",
+     "debateSectionId": "dbsect_105",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_105"
+    },
+    "showAs": " 81. Deputy Pádraig O'Sullivan asked the Minister for Further and Higher Education, Research, Innovation and Science if discussions have taken place with the private purpose-built student accommodation providers in relation to providing flexible arrangements for the 2020-21 academic year; and if he will make a statement on the matter. [31095/20] ",
+    "by": {
+     "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+     "showAs": "Pádraig O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_81",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 81
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_106.xml"
+      }
+     },
+     "showAs": "Third Level Admissions",
+     "debateSectionId": "dbsect_106",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_106"
+    },
+    "showAs": " 82. Deputy Mick Barry asked the Minister for Further and Higher Education, Research, Innovation and Science the measures he will take to increase further the number of places in third level to account for demographic changes to ensure that the CAO 2021 intake will not be adversely impacted by issues regarding the intake for 2020 and to ensure a third-level place for all who want it; and if he will make a statement on the matter. [31320/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_82",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 82
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_108.xml"
+      }
+     },
+     "showAs": "Student Grant Scheme",
+     "debateSectionId": "dbsect_108",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_108"
+    },
+    "showAs": " 84. Deputy Mick Barry asked the Minister for Further and Higher Education, Research, Innovation and Science his views on whether a significant increase in funding is required to ensure that the SUSI grant covers the genuine costs related to access third level and further training; and if this will be addressed as part of the review of the SUSI grant scheme. [31323/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_84",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 84
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_109.xml"
+      }
+     },
+     "showAs": "Third Level Institutions",
+     "debateSectionId": "dbsect_109",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_109"
+    },
+    "showAs": " 85. Deputy Paul McAuliffe asked the Minister for Further and Higher Education, Research, Innovation and Science his plans to fund laptops for third level staff to help teach remotely. [31246/20] ",
+    "by": {
+     "memberCode": "Paul-McAuliffe.D.2020-02-08",
+     "showAs": "Paul  McAuliffe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_85",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 85
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_110.xml"
+      }
+     },
+     "showAs": "Student Grant Scheme",
+     "debateSectionId": "dbsect_110",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_110"
+    },
+    "showAs": " 87. Deputy Pa Daly asked the Minister for Further and Higher Education, Research, Innovation and Science if he will consider changing the criteria for calculating SUSI grant eligibility to include whether a parent is in receipt of the working family payment. [22251/20] ",
+    "by": {
+     "memberCode": "Pa-Daly.D.2020-02-08",
+     "showAs": "Pa Daly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_87",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 87
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_111.xml"
+      }
+     },
+     "showAs": "Budget 2021",
+     "debateSectionId": "dbsect_111",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_111"
+    },
+    "showAs": " 88. Deputy Gary Gannon asked the Minister for Further and Higher Education, Research, Innovation and Science his views on the omission of financial supports for part-time students in budget 2021; and if part-time students will be eligible for the planned €250 universal student payment . [31362/20] ",
+    "by": {
+     "memberCode": "Gary-Gannon.D.2020-02-08",
+     "showAs": "Gary Gannon",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_88",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 88
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_112.xml"
+      }
+     },
+     "showAs": "Technological Universities",
+     "debateSectionId": "dbsect_112",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_112"
+    },
+    "showAs": " 89. Deputy Ruairí Ó Murchú asked the Minister for Further and Higher Education, Research, Innovation and Science the status of the technological university status bid of Dundalk IT, DKIT; and if he will make a statement on the matter. [31378/20] ",
+    "by": {
+     "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+     "showAs": "Ruairí Ó Murchú",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_89",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 89
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_113.xml"
+      }
+     },
+     "showAs": "Student Accommodation",
+     "debateSectionId": "dbsect_113",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_113"
+    },
+    "showAs": " 90. Deputy Richard Boyd Barrett asked the Minister for Further and Higher Education, Research, Innovation and Science his plans to address the issues for students who have paid for student accommodation but whose colleges have now shut in the short and or medium term due to public health restrictions; and if he will make a statement on the matter. [31341/20] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_90",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 90
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_114.xml"
+      }
+     },
+     "showAs": "Budget 2021",
+     "debateSectionId": "dbsect_114",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_114"
+    },
+    "showAs": " 92. Deputy Peadar Tóibín asked the Minister for Further and Higher Education, Research, Innovation and Science the manner in which the hardship funding of €50 million announced by his Department on budget day will be rolled out; and when it will be made available to students. [31371/20] ",
+    "by": {
+     "memberCode": "Peadar-Tóibín.D.2011-03-09",
+     "showAs": "Peadar Tóibín",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_92",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 92
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_115.xml"
+      }
+     },
+     "showAs": "Student Accommodation",
+     "debateSectionId": "dbsect_115",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_115"
+    },
+    "showAs": " 93. Deputy Éamon Ó Cuív asked the Minister for Further and Higher Education, Research, Innovation and Science if he has had discussions with the third level institutions in relation to refunds of rent to students that rented on-campus accommodation and now find that all or most of their courses will be delivered online for the foreseeable future due to the Covid-19 crisis and that this accommodation will not be needed; and if he will make a statement on the matter. [30911/20] ",
+    "by": {
+     "memberCode": "Éamon-Ó-Cuív.S.1989-10-01",
+     "showAs": "Éamon Ó Cuív",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Éamon-Ó-Cuív.S.1989-10-01"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_93",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 93
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_116.xml"
+      }
+     },
+     "showAs": "Third Level Staff",
+     "debateSectionId": "dbsect_116",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_116"
+    },
+    "showAs": " 94. Deputy Mick Barry asked the Minister for Further and Higher Education, Research, Innovation and Science if his attention has been drawn to the practice of postgraduate students not being paid for teaching that they do; if he will investigate the matter; and if he will make a statement on the matter. [31319/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_94",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 94
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_117.xml"
+      }
+     },
+     "showAs": "Further Education and Training Programmes",
+     "debateSectionId": "dbsect_117",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_117"
+    },
+    "showAs": " 95. Deputy David Stanton asked the Minister for Further and Higher Education, Research, Innovation and Science further to Parliamentary Question No. 159 of 10 September 2020, his plans for the further development and expansion of local training initiatives; and if he will make a statement on the matter. [31344/20] ",
+    "by": {
+     "memberCode": "David-Stanton.D.1997-06-26",
+     "showAs": "David Stanton",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Stanton.D.1997-06-26"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_95",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 95
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_118.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_118",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_118"
+    },
+    "showAs": " 96. Deputy Éamon Ó Cuív asked the Minister for Further and Higher Education, Research, Innovation and Science the discussions he had with the Minister for Health and the Chief Medical Officer in August and September 2020 before a decision was made that third level colleges would reopen on campus; if a full risk analysis was carried out of the risks involved given that these reopenings would bring a large number of students together from many parts of the country thus increasing dramatically the risk of spread nationwide if any students became infected; and if he will make a statement on the matter. [30912/20] ",
+    "by": {
+     "memberCode": "Éamon-Ó-Cuív.S.1989-10-01",
+     "showAs": "Éamon Ó Cuív",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Éamon-Ó-Cuív.S.1989-10-01"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_96",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 96
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_119.xml"
+      }
+     },
+     "showAs": "Third Level Staff",
+     "debateSectionId": "dbsect_119",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_119"
+    },
+    "showAs": " 97. Deputy Paul Murphy asked the Minister for Further and Higher Education, Research, Innovation and Science his views on the pay and conditions for postgraduate students whot work in third level colleges; and if he will make a statement on the matter. [31334/20] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_97",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 97
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_120.xml"
+      }
+     },
+     "showAs": "Further and Higher Education",
+     "debateSectionId": "dbsect_120",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_120"
+    },
+    "showAs": " 98. Deputy Richard Bruton asked the Minister for Further and Higher Education, Research, Innovation and Science the number of additional new opportunities being provided at third level and in further education for 2021 between those going via the CAO system, under Springboard, apprenticeship and PLC; the number of these now in place; and if he will make a statement on the matter. [30680/20] ",
+    "by": {
+     "memberCode": "Richard-Bruton.S.1981-10-08",
+     "showAs": "Richard Bruton",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Bruton.S.1981-10-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_98",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 98
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_121.xml"
+      }
+     },
+     "showAs": "Literacy Levels",
+     "debateSectionId": "dbsect_121",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_121"
+    },
+    "showAs": " 99. Deputy Catherine Connolly asked the Minister for Further and Higher Education, Research, Innovation and Science the status of and position regarding the ten-year adult literacy, numeracy and digital literacy strategy promised in the 2020 programme for Government; the details of the group tasked with development of the strategy; and if he will make a statement on the matter. [31377/20] ",
+    "by": {
+     "memberCode": "Catherine-Connolly.D.2016-10-03",
+     "showAs": "Catherine Connolly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_99",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 99
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_122.xml"
+      }
+     },
+     "showAs": "Third Level Fees",
+     "debateSectionId": "dbsect_122",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_122"
+    },
+    "showAs": " 101. Deputy Richard Boyd Barrett asked the Minister for Further and Higher Education, Research, Innovation and Science his rationale for not abolishing fees for the third level and postgraduate sectors in budget 2021; and if he will make a statement on the matter. [31340/20] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_101",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 101
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_122.xml"
+      }
+     },
+     "showAs": "Third Level Fees",
+     "debateSectionId": "dbsect_122",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_122"
+    },
+    "showAs": " 102. Deputy Paul McAuliffe asked the Minister for Further and Higher Education, Research, Innovation and Science his views on college fees for the academic year in view of university and college institutions not being fully utilised; and if he will make a statement on the matter. [31247/20] ",
+    "by": {
+     "memberCode": "Paul-McAuliffe.D.2020-02-08",
+     "showAs": "Paul  McAuliffe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_102",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 102
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_123.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_123",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_123"
+    },
+    "showAs": " 103. Deputy Neale Richmond asked the Minister for Further and Higher Education, Research, Innovation and Science the way in which blended learning will proceed for the current academic year for the various subject areas; and if he will make a statement on the matter. [30835/20] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_103",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 103
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_125.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_125",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_125"
+    },
+    "showAs": " 105. Deputy Christopher O'Sullivan asked the Minister for Further and Higher Education, Research, Innovation and Science the status of progress of refunds by universities to students who paid for student accommodation in full and up front before the pandemic; and if he will make a statement on the matter. [31336/20] ",
+    "by": {
+     "memberCode": "Christopher-O'Sullivan.D.2020-02-08",
+     "showAs": "Christopher O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Christopher-O'Sullivan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_105",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 105
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_126.xml"
+      }
+     },
+     "showAs": "Student Grant Scheme",
+     "debateSectionId": "dbsect_126",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_126"
+    },
+    "showAs": " 106. Deputy Aindrias Moynihan asked the Minister for Further and Higher Education, Research, Innovation and Science if the change of circumstances option on SUSI applications made in 2020 can have consideration for applicants whot are currently experiencing a significant reduction of income in 2020 due to Covid-19 restrictions; and if he will make a statement on the matter. [31312/20] ",
+    "by": {
+     "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+     "showAs": "Aindrias Moynihan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_106",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 106
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_119.xml"
+      }
+     },
+     "showAs": "Third Level Staff",
+     "debateSectionId": "dbsect_119",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_119"
+    },
+    "showAs": " 107. Deputy Paul Murphy asked the Minister for Further and Higher Education, Research, Innovation and Science if his attention has been drawn to the fact that some postgraduate students have to do unpaid teaching work as part of their scholarships; his views on same; and his plans to address the issue. [31335/20] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_107",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 107
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_127.xml"
+      }
+     },
+     "showAs": "Civil Service",
+     "debateSectionId": "dbsect_127",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_127"
+    },
+    "showAs": " 108. Deputy Denis Naughten asked the Minister for Further and Higher Education, Research, Innovation and Science if he will establish a science and technology policy fellowship within the Civil Service to provide opportunities to scientists and engineers to learn first-hand about policy making and contribute their knowledge and analytical skills in policy development; and if he will make a statement on the matter. [30686/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_108",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 108
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_128.xml"
+      }
+     },
+     "showAs": "Erasmus+ Programme",
+     "debateSectionId": "dbsect_128",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_128"
+    },
+    "showAs": " 109. Deputy Neale Richmond asked the Minister for Further and Higher Education, Research, Innovation and Science the safety measures in place for students that are either on an Erasmus programme for the current academic year or those considering embarking on the programme for the 2021-22 academic year; and if he will make a statement on the matter. [30834/20] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_109",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 109
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_129.xml"
+      }
+     },
+     "showAs": "Brexit Issues",
+     "debateSectionId": "dbsect_129",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_129"
+    },
+    "showAs": " 110. Deputy Ruairí Ó Murchú asked the Minister for Further and Higher Education, Research, Innovation and Science the provisions being considered for third level cross-Border students; and if he will make a statement on the matter. [31379/20] ",
+    "by": {
+     "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+     "showAs": "Ruairí Ó Murchú",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_110",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 110
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_130.xml"
+      }
+     },
+     "showAs": "Research and Development",
+     "debateSectionId": "dbsect_130",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_130"
+    },
+    "showAs": " 111. Deputy Denis Naughten asked the Minister for Further and Higher Education, Research, Innovation and Science the steps he plans to take to improve the interface between the broader research community and the Houses of the Oireachtas; and if he will make a statement on the matter. [30687/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_111",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 111
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_131.xml"
+      }
+     },
+     "showAs": "Climate Action Plan",
+     "debateSectionId": "dbsect_131",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_131"
+    },
+    "showAs": " 112. Deputy Richard Bruton asked the Minister for Further and Higher Education, Research, Innovation and Science the new initiatives in education and research his Department is planning in 2021 designed to accelerate capacity to deliver the infrastructures and the practices to underpin ambitions for reductions in emissions damaging to climate. [30681/20] ",
+    "by": {
+     "memberCode": "Richard-Bruton.S.1981-10-08",
+     "showAs": "Richard Bruton",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Bruton.S.1981-10-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_112",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 112
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_132.xml"
+      }
+     },
+     "showAs": "Mental Health Services",
+     "debateSectionId": "dbsect_132",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_132"
+    },
+    "showAs": " 113. Deputy Aindrias Moynihan asked the Minister for Further and Higher Education, Research, Innovation and Science the engagement he has had with colleges and third level institutions to ensure that the recent allocation for mental health funding is benefiting all students needing assistance in view of the fact that most are studying remotely and could be based anywhere countrywide; the way in which students are being identified by colleges for the assistance; the way in which the funding is being measured by his Department to ensure that all students in need of assistance are benefitting from the funding; and if he will make a statement on the matter. [31313/20] ",
+    "by": {
+     "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+     "showAs": "Aindrias Moynihan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_113",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 113
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_133.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_133",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_133"
+    },
+    "showAs": " 114. Deputy Niamh Smyth asked the Minister for Further and Higher Education, Research, Innovation and Science if his Department has contacted colleges regarding accommodation refund issues at various campuses for students; if his attention has been drawn to the issue; if so, his plans to address the matter; and if he will make a statement on the matter. [31093/20] ",
+    "by": {
+     "memberCode": "Niamh-Smyth.D.2016-10-03",
+     "showAs": "Niamh Smyth",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_114",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 114
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_133.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_133",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_133"
+    },
+    "showAs": " 115. Deputy Niamh Smyth asked the Minister for Further and Higher Education, Research, Innovation and Science if he will address the accommodation crisis regarding refunds that students are facing due to Covid-19 at various third level facilities nationally. [31094/20] ",
+    "by": {
+     "memberCode": "Niamh-Smyth.D.2016-10-03",
+     "showAs": "Niamh Smyth",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_115",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 115
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_134.xml"
+      }
+     },
+     "showAs": "Apprenticeship Programmes",
+     "debateSectionId": "dbsect_134",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_134"
+    },
+    "showAs": " 116. Deputy Mick Barry asked the Minister for Further and Higher Education, Research, Innovation and Science the measures, protections and oversights that will be in place for those taking up apprenticeships and training to ensure the quality of the training and the protection of their rights in the workplace; and if he will make a statement on the matter. [31322/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_116",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 116
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_135.xml"
+      }
+     },
+     "showAs": "State Examinations",
+     "debateSectionId": "dbsect_135",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_135"
+    },
+    "showAs": " 118. Deputy Alan Farrell asked the Minister for Further and Higher Education, Research, Innovation and Science his plans to address concerns regarding CAO points inflation in 2021; and if he will make a statement on the matter. [29947/20] ",
+    "by": {
+     "memberCode": "Alan-Farrell.D.2011-03-09",
+     "showAs": "Alan Farrell",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_118",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 118
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_137.xml"
+      }
+     },
+     "showAs": "Departmental Data",
+     "debateSectionId": "dbsect_137",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_137"
+    },
+    "showAs": " 119. Deputy Mary Lou McDonald asked the Taoiseach if he will provide a breakdown of his Department’s estimate for salaries, wages and allowances for 2021. [31367/20] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_119",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 119
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_138.xml"
+      }
+     },
+     "showAs": "Departmental Expenditure",
+     "debateSectionId": "dbsect_138",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_138"
+    },
+    "showAs": " 120. Deputy Mary Lou McDonald asked the Taoiseach if he will provide a breakdown of his Department’s 2021 estimate for a specialised sexual offences unit. [31368/20] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_120",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 120
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_139.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_139",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_139"
+    },
+    "showAs": " 121. Deputy Noel Grealish asked the Taoiseach the detail of each Cabinet Committee; the membership of the committees; the committees that have met to date; and the committees that have not met. [30841/20] ",
+    "by": {
+     "memberCode": "Noel-Grealish.D.2002-06-06",
+     "showAs": "Noel Grealish",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-Grealish.D.2002-06-06"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_121",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 121
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_140.xml"
+      }
+     },
+     "showAs": "Regional Aid",
+     "debateSectionId": "dbsect_140",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_140"
+    },
+    "showAs": " 122. Deputy Louise O'Reilly asked the Taoiseach the value of regional aid granted under the regional aid guidelines granted by his Department or agencies under the remit of his Department in each of the past seven years; and the value by county or lowest possible NUTS level over the period. [30906/20] ",
+    "by": {
+     "memberCode": "Louise-O'Reilly.D.2016-10-03",
+     "showAs": "Louise O'Reilly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_122",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 122
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_141.xml"
+      }
+     },
+     "showAs": "Appointments to State Boards",
+     "debateSectionId": "dbsect_141",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_141"
+    },
+    "showAs": " 123. Deputy Cathal Crowe asked the Taoiseach if a member of a union (details supplied) will be appointed to the Commission on the Future of Media. [30706/20] ",
+    "by": {
+     "memberCode": "Cathal-Crowe.D.2020-02-08",
+     "showAs": "Cathal Crowe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_123",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 123
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_142.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_142",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_142"
+    },
+    "showAs": " 124. Deputy Holly Cairns asked the Taoiseach the number of dedicated spaces for breastfeeding and expressing breast milk in workplaces assigned to his Department in percentage and absolute terms. [31752/20] ",
+    "by": {
+     "memberCode": "Holly-Cairns.D.2020-02-08",
+     "showAs": "Holly Cairns",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Holly-Cairns.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_124",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 124
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_143.xml"
+      }
+     },
+     "showAs": "Legislative Measures",
+     "debateSectionId": "dbsect_143",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_143"
+    },
+    "showAs": " 125. Deputy Róisín Shortall asked the Tánaiste and Minister for Enterprise, Trade and Employment further to Parliamentary Question No, 189 of 6 October 2020, if he will consider legislative measures so that workers are not at a loss in terms of light, heat and waste bills due to having to work and study at home in view of such a scheme in Spain (details supplied); and if he will make a statement on the matter. [30949/20] ",
+    "by": {
+     "memberCode": "Róisín-Shortall.D.1992-12-14",
+     "showAs": "Róisín Shortall",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Róisín-Shortall.D.1992-12-14"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_125",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 125
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_144.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_144",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_144"
+    },
+    "showAs": " 126. Deputy Jackie Cahill asked the Tánaiste and Minister for Enterprise, Trade and Employment the financial supports available to persons that are pub owners and the sole employee of the pub in view of the increase to level three Covid-19 restrictions; and if he will make a statement on the matter. [31037/20] ",
+    "by": {
+     "memberCode": "Jackie-Cahill.D.2016-10-03",
+     "showAs": "Jackie Cahill",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jackie-Cahill.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_126",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 126
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_145.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_145",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_145"
+    },
+    "showAs": " 127. Deputy Richard Bruton asked the Tánaiste and Minister for Enterprise, Trade and Employment if he has received a submission from a body (details supplied) seeking relaxation on deadlines and compliance rules due to the exceptional pressures created by Covid-19; and if he will make a statement on the matter. [31113/20] ",
+    "by": {
+     "memberCode": "Richard-Bruton.S.1981-10-08",
+     "showAs": "Richard Bruton",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Bruton.S.1981-10-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_127",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 127
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_146.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_146",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_146"
+    },
+    "showAs": " 128. Deputy Verona Murphy asked the Tánaiste and Minister for Enterprise, Trade and Employment the reason the Workplace Relations Commission and the Labour Court are bringing parties from other counties to Dublin during level 3 restrictions for face-to-face hearings in view of the fact that these bodies have the facilities to convene such hearings remotely; and if he will make a statement on the matter. [31116/20] ",
+    "by": {
+     "memberCode": "Verona-Murphy.D.2020-02-08",
+     "showAs": "Verona Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Verona-Murphy.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_128",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 128
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_147.xml"
+      }
+     },
+     "showAs": "Tax Rebates",
+     "debateSectionId": "dbsect_147",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_147"
+    },
+    "showAs": " 129. Deputy John Brady asked the Tánaiste and Minister for Enterprise, Trade and Employment his plans to restore the employer statutory redundancy rebate, which was abolished in 2013; and if he will make a statement on the matter. [31118/20] ",
+    "by": {
+     "memberCode": "John-Brady.D.2016-10-03",
+     "showAs": "John Brady",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Brady.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_129",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 129
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_148.xml"
+      }
+     },
+     "showAs": "Appointments to State Boards",
+     "debateSectionId": "dbsect_148",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_148"
+    },
+    "showAs": " 130. Deputy Catherine Murphy asked the Tánaiste and Minister for Enterprise, Trade and Employment when the post of head of administration at the Labour Court will be filled; and the length of time this post has been vacant. [31178/20] ",
+    "by": {
+     "memberCode": "Catherine-Murphy.D.2005-03-11",
+     "showAs": "Catherine Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Murphy.D.2005-03-11"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_130",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 130
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_149.xml"
+      }
+     },
+     "showAs": "Workplace Relations Commission",
+     "debateSectionId": "dbsect_149",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_149"
+    },
+    "showAs": " 131. Deputy Catherine Murphy asked the Tánaiste and Minister for Enterprise, Trade and Employment the estimated cost in 2021 of recruiting seven additional HEO inspectors and 35 EO inspectors for Workplace Relations Commission. [31179/20] ",
+    "by": {
+     "memberCode": "Catherine-Murphy.D.2005-03-11",
+     "showAs": "Catherine Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Murphy.D.2005-03-11"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_131",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 131
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_150.xml"
+      }
+     },
+     "showAs": "Health and Safety Authority ",
+     "debateSectionId": "dbsect_150",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_150"
+    },
+    "showAs": " 132. Deputy Louise O'Reilly asked the Tánaiste and Minister for Enterprise, Trade and Employment if the allocation of €4 million in budget 2021 for Health and Safety Authority pay is for pay restoration; if it is additional and new moneys; if so, the measures the funding will be used for; the number of additional HSA inspectors it will be used to take on; and the permanent standing HSA workforce expected after the funds have been used by grade group and category. [31292/20] ",
+    "by": {
+     "memberCode": "Louise-O'Reilly.D.2016-10-03",
+     "showAs": "Louise O'Reilly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_132",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 132
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_151.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_151",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_151"
+    },
+    "showAs": " 133. Deputy Louise O'Reilly asked the Tánaiste and Minister for Enterprise, Trade and Employment further to Parliamentary Question No. 28 of 13 October 2020, if he will provide a breakdown of each NACE sector compliance with Covid-19 protocols, in the manner in  which the CSO or EUROSTAT further break down these sectors into more detailed individual subsections (details supplied); and if he will make a statement on the matter. [31324/20] ",
+    "by": {
+     "memberCode": "Louise-O'Reilly.D.2016-10-03",
+     "showAs": "Louise O'Reilly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_133",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 133
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_152.xml"
+      }
+     },
+     "showAs": "Apprenticeship Programmes",
+     "debateSectionId": "dbsect_152",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_152"
+    },
+    "showAs": " 134. Deputy Patricia Ryan asked the Tánaiste and Minister for Enterprise, Trade and Employment his plans to incentivise construction companies to engage apprentices; and if he will make a statement on the matter. [31446/20] ",
+    "by": {
+     "memberCode": "Patricia-Ryan.D.2020-02-08",
+     "showAs": "Patricia  Ryan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Patricia-Ryan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_134",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 134
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_153.xml"
+      }
+     },
+     "showAs": "Health and Safety Authority ",
+     "debateSectionId": "dbsect_153",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_153"
+    },
+    "showAs": " 135. Deputy Ged Nash asked the Tánaiste and Minister for Enterprise, Trade and Employment the number of HSA inspectors hired since the beginning of July 2020; the additional resources that have been provided to the HSA from budget 2021; his plans to hire additional HSA inspectors in 2020 and 2021 respectively; and if he will make a statement on the matter. [31487/20] ",
+    "by": {
+     "memberCode": "Gerald-Nash.D.2011-03-09",
+     "showAs": "Gerald Nash",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_135",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 135
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_154.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_154",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_154"
+    },
+    "showAs": " 136. Deputy Holly Cairns asked the Tánaiste and Minister for Enterprise, Trade and Employment the number of dedicated spaces for breastfeeding and expressing breast milk in workplaces assigned to his Department in percentage and absolute terms; and if he will make a statement on the matter. [31746/20] ",
+    "by": {
+     "memberCode": "Holly-Cairns.D.2020-02-08",
+     "showAs": "Holly Cairns",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Holly-Cairns.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_136",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 136
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_155.xml"
+      }
+     },
+     "showAs": "Cybersecurity Policy",
+     "debateSectionId": "dbsect_155",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_155"
+    },
+    "showAs": " 137. Deputy Ged Nash asked the Minister for Environment, Climate and Communications if a hybrid warfare self-assessment to identify critical State functions and find vulnerabilities within and between critical State functions has been conducted; if so, if effective mechanisms to anticipate, avoid defeat or recover from hybrid attacks have been developed; and if he will make a statement on the matter. [30997/20] ",
+    "by": {
+     "memberCode": "Gerald-Nash.D.2011-03-09",
+     "showAs": "Gerald Nash",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Environment",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_137",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 137
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_156.xml"
+      }
+     },
+     "showAs": "Defective Building Materials",
+     "debateSectionId": "dbsect_156",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_156"
+    },
+    "showAs": " 138. Deputy Dara Calleary asked the Minister for Environment, Climate and Communications if his attention has been drawn to the requirements of the defective blocks scheme (details supplied) that limits scheme participants that as a consequence of defective blocks must entirely rebuild their homes and to out-of-date standards in that rebuilding; and if he will consult with the Minister for Housing, Local Government and Heritage to allow persons that qualify for the defective blocks scheme to receive automatic access to SEAI supports. [30965/20] ",
+    "by": {
+     "memberCode": "Dara-Calleary.D.2007-06-14",
+     "showAs": "Dara Calleary",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Dara-Calleary.D.2007-06-14"
+    },
+    "to": {
+     "showAs": "Environment",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_138",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 138
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_133.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_133",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_133"
+    },
+    "showAs": " 480. Deputy Neale Richmond asked the Minister for Further and Higher Education, Research, Innovation and Science if colleges are providing flexibility to students renting accommodation on campus in terms of the early cessation of a lease due to the rise of remote learning; and if he will make a statement on the matter. [31199/20] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_480",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 480
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_122.xml"
+      }
+     },
+     "showAs": "Third Level Fees",
+     "debateSectionId": "dbsect_122",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_122"
+    },
+    "showAs": " 481. Deputy Seán Haughey asked the Minister for Further and Higher Education, Research, Innovation and Science if he will request the third level universities to reduce the fees for students completing master's degrees in view of the fact that there is now no on-campus teaching; and if he will make a statement on the matter. [31276/20] ",
+    "by": {
+     "memberCode": "Seán-Haughey.S.1987-04-25",
+     "showAs": "Seán Haughey",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Haughey.S.1987-04-25"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_481",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 481
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_133.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_133",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_133"
+    },
+    "showAs": " 485. Deputy Paul Murphy asked the Minister for Further and Higher Education, Research, Innovation and Science the steps he will take to ensure students will not have to pay rent or lose deposits for accommodation they no longer need due to the cancellation of in-person teaching in colleges and universities. [28324/20] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_485",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 485
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-20",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/mul@/dbsect_133.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_133",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-20/writtens/dbsect_133"
+    },
+    "showAs": " 504. Deputy Holly Cairns asked the Minister for Further and Higher Education, Research, Innovation and Science the actions he is taking in co-ordination with the Minister for Housing, Local Government and Heritage to provide greater protections for student renters. [31773/20] ",
+    "by": {
+     "memberCode": "Holly-Cairns.D.2020-02-08",
+     "showAs": "Holly Cairns",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Holly-Cairns.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Further and Higher Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-20/pq_504",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 504
+   },
+   "contextDate": "2020-10-20"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/mul@/dbsect_31.xml"
+      }
+     },
+     "showAs": "Legislative Measures",
+     "debateSectionId": "dbsect_31",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/dbsect_31"
+    },
+    "showAs": " 13. Deputy Gino Kenny asked the Tánaiste and Minister for Enterprise, Trade and Employment his plans to introduce legislation to allow for a mechanism for workers to be prioritised as creditors in the event of a liquidation in the future; if legislation that stops workers seeking redundancy in certain circumstances will be ended or extended; and if he will make a statement on the matter. [30568/20] ",
+    "by": {
+     "memberCode": "Gino-Kenny.D.2016-10-03",
+     "showAs": "Gino Kenny",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gino-Kenny.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "questionType": "written",
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_13",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 13
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/mul@/dbsect_32.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_32",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/dbsect_32"
+    },
+    "showAs": " 14. Deputy Gary Gannon asked the Tánaiste and Minister for Enterprise, Trade and Employment his plans to support indigenous industries that cannot return due to Covid-19. [25616/20] ",
+    "by": {
+     "memberCode": "Gary-Gannon.D.2020-02-08",
+     "showAs": "Gary Gannon",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "questionType": "written",
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_14",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 14
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/mul@/dbsect_33.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_33",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/dbsect_33"
+    },
+    "showAs": " 15. Deputy Pearse Doherty asked the Tánaiste and Minister for Enterprise, Trade and Employment the number and value of loans that have been approved to date under the Covid-19 credit guarantee scheme; and if he will make a statement on the matter. [30094/20] ",
+    "by": {
+     "memberCode": "Pearse-Doherty.S.2007-07-23",
+     "showAs": "Pearse Doherty",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "questionType": "written",
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_15",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 15
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/mul@/dbsect_34.xml"
+      }
+     },
+     "showAs": "Brexit Preparations",
+     "debateSectionId": "dbsect_34",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/dbsect_34"
+    },
+    "showAs": " 16. Deputy Rose Conway-Walsh asked the Tánaiste and Minister for Enterprise, Trade and Employment if his Department expects Brexit to have a disproportionate impact on employment and business in rural Ireland; the specific mitigation strategy in place; and if he will make a statement on the matter. [30602/20] ",
+    "by": {
+     "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+     "showAs": "Rose Conway-Walsh",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "questionType": "written",
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_16",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 16
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/mul@/dbsect_35.xml"
+      }
+     },
+     "showAs": "Departmental Schemes",
+     "debateSectionId": "dbsect_35",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/dbsect_35"
+    },
+    "showAs": " 17. Deputy Paul McAuliffe asked the Tánaiste and Minister for Enterprise, Trade and Employment his plans for allowing taxi drivers and other self-employed persons access more support schemes similar to other SMEs from which they are currently excluded; and if he will make a statement on the matter. [29973/20] ",
+    "by": {
+     "memberCode": "Paul-McAuliffe.D.2020-02-08",
+     "showAs": "Paul  McAuliffe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "questionType": "written",
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_17",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 17
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/mul@/dbsect_36.xml"
+      }
+     },
+     "showAs": "Foreign Direct Investment",
+     "debateSectionId": "dbsect_36",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/writtens/dbsect_36"
+    },
+    "showAs": " 18. Deputy Neale Richmond asked the Tánaiste and Minister for Enterprise, Trade and Employment the steps taken to attract more foreign direct investment to Ireland post Brexit and to increase existing investment; and if he will make a statement on the matter. [30518/20] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "questionType": "written",
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_18",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 18
+   },
+   "contextDate": "2020-10-15"
+  }
+ ]
+}

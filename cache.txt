@@ -1,0 +1,2015 @@
+{
+ "head": {
+  "counts": {
+   "questionCount": 10000,
+   "resultCount": 10000
+  },
+  "dateRange": {
+   "start": "1900-01-01T00:00:00.000Z",
+   "end": "2099-01-01T00:00:00.000Z"
+  },
+  "lang": "mul"
+ },
+ "results": [
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_4.xml"
+      }
+     },
+     "showAs": "Small and Medium Enterprises",
+     "debateSectionId": "dbsect_4",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_4"
+    },
+    "showAs": " 1. Deputy Louise O'Reilly asked the Tánaiste and Minister for Enterprise, Trade and Employment if his Department will consider the establishment of an Industrial Development Authority or similar styled body specifically to focus on microbusinesses, workers' co-operatives, and small and medium-sized enterprises. [30000/20] ",
+    "by": {
+     "memberCode": "Louise-O'Reilly.D.2016-10-03",
+     "showAs": "Louise O'Reilly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_1",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 1
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_5.xml"
+      }
+     },
+     "showAs": "Sick Pay Scheme",
+     "debateSectionId": "dbsect_5",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_5"
+    },
+    "showAs": " 2. Deputy Catherine Murphy asked the Tánaiste and Minister for Enterprise, Trade and Employment the status of his work in relation to the introduction of a statutory sick pay scheme here; the level of stakeholder engagements he has embarked on; and if he has been contacted by persons opposed to such a scheme being introduced. [30805/20] ",
+    "by": {
+     "memberCode": "Catherine-Murphy.D.2005-03-11",
+     "showAs": "Catherine Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Murphy.D.2005-03-11"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_2",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 2
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_6.xml"
+      }
+     },
+     "showAs": "Flexible Work Practices",
+     "debateSectionId": "dbsect_6",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_6"
+    },
+    "showAs": " 3. Deputy Louise O'Reilly asked the Tánaiste and Minister for Enterprise, Trade and Employment if he will undertake the necessary legislative and tax changes to ensure that remote working and-or home working are recognised as forms of work that require specific safeguards, protections and allowances for workers. [30001/20] ",
+    "by": {
+     "memberCode": "Louise-O'Reilly.D.2016-10-03",
+     "showAs": "Louise O'Reilly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_3",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 3
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_7"
+    },
+    "showAs": " 4. Deputy Mattie McGrath asked the Tánaiste and Minister for Enterprise, Trade and Employment the specific measures he will provide to SMEs and the self-employed in the event of further restrictions to combat Covid-19. [30838/20] ",
+    "by": {
+     "memberCode": "Mattie-McGrath.D.2007-06-14",
+     "showAs": "Mattie McGrath",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mattie-McGrath.D.2007-06-14"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_4",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 4
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Regional Development",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_8"
+    },
+    "showAs": " 5. Deputy Marian Harkin asked the Tánaiste and Minister for Enterprise, Trade and Employment the measures he will take to ensure the viability of businesses and SMEs in the regions post-Brexit that will deliver a fair distribution of investment in jobs in the regions. [30478/20] ",
+    "by": {
+     "memberCode": "Marian-Harkin.D.2002-06-06",
+     "showAs": "Marian Harkin",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marian-Harkin.D.2002-06-06"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_5",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 5
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_10.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_10",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_10"
+    },
+    "showAs": " 6. Deputy Bernard J. Durkan asked the Tánaiste and Minister for Enterprise, Trade and Employment if he is satisfied that the budget of 2021 sufficiently addresses the unemployment issues arising from Covid-19; and if he will make a statement on the matter. [30551/20] ",
+    "by": {
+     "memberCode": "Bernard-Durkan.D.1981-06-30",
+     "showAs": "Bernard Durkan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Durkan.D.1981-06-30"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_6",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 6
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_11.xml"
+      }
+     },
+     "showAs": "Pharmaceutical Sector",
+     "debateSectionId": "dbsect_11",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_11"
+    },
+    "showAs": " 7. Deputy Cathal Crowe asked the Tánaiste and Minister for Enterprise, Trade and Employment the status of a site (details supplied). [25953/20] ",
+    "by": {
+     "memberCode": "Cathal-Crowe.D.2020-02-08",
+     "showAs": "Cathal Crowe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_7",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 7
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_12.xml"
+      }
+     },
+     "showAs": "Grant Payments",
+     "debateSectionId": "dbsect_12",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_12"
+    },
+    "showAs": " 8. Deputy Christopher O'Sullivan asked the Tánaiste and Minister for Enterprise, Trade and Employment if the deadline for the restart grant plus can be extended past the end of September 2020; and if the extended deadline of October 2020 for bed and breakfast establishments is open to businesses which are not registered with Fáilte Ireland.  [25955/20] ",
+    "by": {
+     "memberCode": "Christopher-O'Sullivan.D.2020-02-08",
+     "showAs": "Christopher O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Christopher-O'Sullivan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_8",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 8
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Disability Services Provision",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_13"
+    },
+    "showAs": " 9. Deputy Michael Moynihan asked the Tánaiste and Minister for Enterprise, Trade and Employment the role his Department plays in promoting disability inclusion; and if he will make a statement on the matter. [30595/20] ",
+    "by": {
+     "memberCode": "Michael-Moynihan.D.1997-06-26",
+     "showAs": "Michael Moynihan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Moynihan.D.1997-06-26"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_9",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 9
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "Small and Medium Enterprises",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_14"
+    },
+    "showAs": " 10. Deputy Verona Murphy asked the Tánaiste and Minister for Enterprise, Trade and Employment if he will report on the SME growth task force and explain the long-term vision for supports for SMEs here; and if he will make a statement on the matter.  [30111/20] ",
+    "by": {
+     "memberCode": "Verona-Murphy.D.2020-02-08",
+     "showAs": "Verona Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Verona-Murphy.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_10",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 10
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_15.xml"
+      }
+     },
+     "showAs": "Health and Safety Authority",
+     "debateSectionId": "dbsect_15",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_15"
+    },
+    "showAs": " 11. Deputy Paul Murphy asked the Tánaiste and Minister for Enterprise, Trade and Employment if he is satisfied with the level of funding allocated to his Department for its responsibilities regarding the welfare of workers, for example through the Health and Safety Authority, HSA; and if he will make a statement on the matter.  [30563/20] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_11",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 11
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_16.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_16",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_16"
+    },
+    "showAs": " 12. Deputy Éamon Ó Cuív asked the Tánaiste and Minister for Enterprise, Trade and Employment the steps he intends taking to support trade, enterprise and employment during the current pandemic, particularly in those sectors worst hit by Covid-19; and if he will make a statement on the matter. [30261/20] ",
+    "by": {
+     "memberCode": "Éamon-Ó-Cuív.S.1989-10-01",
+     "showAs": "Éamon Ó Cuív",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Éamon-Ó-Cuív.S.1989-10-01"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_12",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 12
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-15",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/mul@/dbsect_17.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic Supports",
+     "debateSectionId": "dbsect_17",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-15/debate/dbsect_17"
+    },
+    "showAs": " 19. Deputy John Lahart asked the Tánaiste and Minister for Enterprise, Trade and Employment the steps being taken to address urgently the crisis facing businesses and traders in Dublin city as a consequence of significantly reduced customer footfall, an absence of tourists and the operation of a remote working regime; and if he will make a statement on the matter.  [25954/20] ",
+    "by": {
+     "memberCode": "John-Lahart.D.2016-10-03",
+     "showAs": "John Lahart",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Enterprise",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-15/pq_19",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 19
+   },
+   "contextDate": "2020-10-15"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_4.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_4",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_4"
+    },
+    "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Minister for Education if she will address the significant inequalities in pay, conditions and pension and other entitlements facing many school secretaries. [30312/20] ",
+    "by": {
+     "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+     "showAs": "Donnchadh Ó Laoghaire",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_1",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 1
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_5.xml"
+      }
+     },
+     "showAs": "State Examinations",
+     "debateSectionId": "dbsect_5",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_5"
+    },
+    "showAs": " 2. Deputy Aodhán Ó Ríordáin asked the Minister for Education if she will constitute an independent inquiry into the 2020 leaving certificate which would examine the circumstances leading to the cancellation of the exam, the design and implementation of the calculated grades system, the ensuing errors and omissions and the knock-on effect on the CAO process; and if she will make a statement on the matter. [30311/20] ",
+    "by": {
+     "memberCode": "Aodhán-Ó-Ríordáin.D.2011-03-09",
+     "showAs": "Aodhán Ó Ríordáin",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aodhán-Ó-Ríordáin.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_2",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 2
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_6.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_6",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_6"
+    },
+    "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Minister for Education the status of the development of clear guidelines on when and the manner in which children with special educational needs can integrate within mainstream classes during the school day and the way in which that will be managed. [30313/20] ",
+    "by": {
+     "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+     "showAs": "Donnchadh Ó Laoghaire",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_3",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 3
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_7"
+    },
+    "showAs": " 4. Deputy Denis Naughten asked the Minister for Education the steps she will take to cater for the increasing numbers of special needs pupils at primary level; if she has assessed the impact of the curtailment of supports for such children as a result of Covid-19; and if she will make a statement on the matter. [29741/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_4",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 4
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_8"
+    },
+    "showAs": " 5. Deputy Donnchadh Ó Laoghaire asked the Minister for Education for details of the guidance for those at high risk; if schoolchildren who have medically vulnerable parents will be facilitated with remote learning; and if she will revise the Medmark process for high-risk school staff.  [30314/20] ",
+    "by": {
+     "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+     "showAs": "Donnchadh Ó Laoghaire",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_5",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 5
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_10.xml"
+      }
+     },
+     "showAs": "State Examinations",
+     "debateSectionId": "dbsect_10",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_10"
+    },
+    "showAs": " 6. Deputy Denis Naughten asked the Minister for Education to outline the steps she will take to ensure that there is a leaving certificate examination in 2021; and if she will make a statement on the matter.  [29740/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_6",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 6
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_11.xml"
+      }
+     },
+     "showAs": "Schools Building Projects",
+     "debateSectionId": "dbsect_11",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_11"
+    },
+    "showAs": " 7. Deputy Catherine Connolly asked the Minister for Education the details of the analysis undertaken in relation to the need for school capacity further to an application for a school extension at a school (details supplied); the findings of the analysis; and if she will make a statement on the matter. [29990/20] ",
+    "by": {
+     "memberCode": "Catherine-Connolly.D.2016-10-03",
+     "showAs": "Catherine Connolly",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_7",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 7
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_24.xml"
+      }
+     },
+     "showAs": "Autism Support Services",
+     "debateSectionId": "dbsect_24",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_24"
+    },
+    "showAs": " 8. Deputy Pádraig O'Sullivan asked the Minister for Education the position regarding the provision of ASD services in an area of County Cork (details supplied); and if she will make a statement on the matter. [29792/20] ",
+    "by": {
+     "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+     "showAs": "Pádraig O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_8",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 8
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_12.xml"
+      }
+     },
+     "showAs": "State Examinations",
+     "debateSectionId": "dbsect_12",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_12"
+    },
+    "showAs": " 9. Deputy Pauline Tully asked the Minister for Education if the State Examination Commission will stand over the leaving certificate results of students that sit these exams in November 2020; her views on whether the leaving certificate examination in November 2020 will be comparable to previous years considering students having been out of school for several months, many were unable to finish practical examinations and are unable to take oral examinations; and if she will make a statement on the matter. [29868/20] ",
+    "by": {
+     "memberCode": "Pauline-Tully.D.2020-02-08",
+     "showAs": "Pauline  Tully",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pauline-Tully.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_9",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 9
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_13"
+    },
+    "showAs": " 10. Deputy Patrick Costello asked the Minister for Education her views on the upcoming loss of a teacher in a school (details supplied) and the progress or lack thereof in reducing class sizes in view of the Covid-19 pandemic; and if she will make a statement on the matter. [30223/20] ",
+    "by": {
+     "memberCode": "Patrick-Costello.D.2020-02-08",
+     "showAs": "Patrick Costello",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Patrick-Costello.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_10",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 10
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_14"
+    },
+    "showAs": " 11. Deputy Violet-Anne Wynne asked the Minister for Education her plans to ensure reduced class sizes in schools, particularly in a school (details supplied); and if she will make a statement on the matter. [30213/20] ",
+    "by": {
+     "memberCode": "Violet-Anne-Wynne.D.2020-02-08",
+     "showAs": "Violet-Anne Wynne",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Violet-Anne-Wynne.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_11",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 11
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_15.xml"
+      }
+     },
+     "showAs": "School Enrolments",
+     "debateSectionId": "dbsect_15",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_15"
+    },
+    "showAs": " 12. Deputy Cormac Devlin asked the Minister for Education if her attention has been drawn to the recent change in enrolment policies issued by a religious organisation (details supplied) and the impact it will have on parents; and if she will make a statement on the matter. [28353/20] ",
+    "by": {
+     "memberCode": "Cormac-Devlin.D.2020-02-08",
+     "showAs": "Cormac Devlin",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_12",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 12
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_25.xml"
+      }
+     },
+     "showAs": "School Transport",
+     "debateSectionId": "dbsect_25",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_25"
+    },
+    "showAs": " 13. Deputy Sean Sherlock asked the Minister for Education if she is satisfied that school transport provision is adequately provided for all children with disabilities. [22317/20] ",
+    "by": {
+     "memberCode": "Seán-Sherlock.D.2007-06-14",
+     "showAs": "Seán Sherlock",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Sherlock.D.2007-06-14"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_13",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 13
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_16.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_16",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_16"
+    },
+    "showAs": " 14. Deputy Denis Naughten asked the Minister for Education the steps she will take to cater for the increasing numbers of special needs pupils at primary level; if she has assessed the impact of the curtailment of supports for such children; and if she will make a statement on the matter. [29739/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_14",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 14
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_17.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_17",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_17"
+    },
+    "showAs": " 15. Deputy Paul McAuliffe asked the Minister for Education if the feasibility of pairing students of very high-risk families to very high risk teachers via an online learning platform will be examined; and if she will make a statement on the matter. [25941/20] ",
+    "by": {
+     "memberCode": "Paul-McAuliffe.D.2020-02-08",
+     "showAs": "Paul  McAuliffe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_15",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 15
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/mul@/dbsect_18.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_18",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/debate/dbsect_18"
+    },
+    "showAs": " 16. Deputy Brian Stanley asked the Minister for Education her plans to ensure that school secretaries employed by schools are properly remunerated for their work. [29972/20] ",
+    "by": {
+     "memberCode": "Brian-Stanley.D.2011-03-09",
+     "showAs": "Brian Stanley",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_16",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 16
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_27.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_27",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_27"
+    },
+    "showAs": " 17. Deputy Pearse Doherty asked the Minister for Education when additional principal release days will be allocated to a school (details supplied). [30115/20] ",
+    "by": {
+     "memberCode": "Pearse-Doherty.S.2007-07-23",
+     "showAs": "Pearse Doherty",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_17",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 17
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_28.xml"
+      }
+     },
+     "showAs": "Schools Site Acquisitions",
+     "debateSectionId": "dbsect_28",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_28"
+    },
+    "showAs": " 18. Deputy Aindrias Moynihan asked the Minister for Education the measures being taken to prioritise and progress the acquisition of a site for a school (details supplied); and if she will make a statement on the matter. [29848/20] ",
+    "by": {
+     "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+     "showAs": "Aindrias Moynihan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_18",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 18
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_29.xml"
+      }
+     },
+     "showAs": "Schools Site Acquisitions",
+     "debateSectionId": "dbsect_29",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_29"
+    },
+    "showAs": " 19. Deputy Jennifer Carroll MacNeill asked the Minister for Education the timeline for obtaining a permanent premises for a school (details supplied); and if she will make a statement on the matter. [29995/20] ",
+    "by": {
+     "memberCode": "Jennifer-Carroll-MacNeill.D.2020-02-08",
+     "showAs": "Jennifer Carroll MacNeill",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Carroll-MacNeill.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_19",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 19
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_30.xml"
+      }
+     },
+     "showAs": "Covid-19 Tests",
+     "debateSectionId": "dbsect_30",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_30"
+    },
+    "showAs": " 20. Deputy Jim O'Callaghan asked the Minister for Education the position with regard to Covid-19 testing in schools for school age children in which appropriate; and if she will make a statement on the matter. [30096/20] ",
+    "by": {
+     "memberCode": "Jim-O'Callaghan.D.2016-10-03",
+     "showAs": "Jim O'Callaghan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jim-O'Callaghan.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_20",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 20
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_31.xml"
+      }
+     },
+     "showAs": "Pupil-Teacher Ratio",
+     "debateSectionId": "dbsect_31",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_31"
+    },
+    "showAs": " 21. Deputy Denis Naughten asked the Minister for Education her plans to address large classes in primary schools; and if she will make a statement on the matter. [29738/20] ",
+    "by": {
+     "memberCode": "Denis-Naughten.S.1997-01-28",
+     "showAs": "Denis Naughten",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_21",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 21
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_32.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_32",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_32"
+    },
+    "showAs": " 22. Deputy Eoghan Murphy asked the Minister for Education if she is satisfied with the process for establishing new ASD units in primary schools; and if she will make a statement on the matter. [29934/20] ",
+    "by": {
+     "memberCode": "Eoghan-Murphy.D.2011-03-09",
+     "showAs": "Eoghan Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Murphy.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_22",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 22
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_33.xml"
+      }
+     },
+     "showAs": "Schools Building Projects",
+     "debateSectionId": "dbsect_33",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_33"
+    },
+    "showAs": " 23. Deputy Pat Buckley asked the Minister for Education the timeline and deadline for the completion of a school in Carrigtohill, County Cork; and if she will make a statement on the matter. [25939/20] ",
+    "by": {
+     "memberCode": "Pat-Buckley.D.2016-10-03",
+     "showAs": "Pat Buckley",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pat-Buckley.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_23",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 23
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_34.xml"
+      }
+     },
+     "showAs": "Child Abuse",
+     "debateSectionId": "dbsect_34",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_34"
+    },
+    "showAs": " 24. Deputy Maurice Quinlivan asked the Minister for Education when the review promised to the Creagh Lane sexual abuse survivors will be completed; and if the victims from the school will be included in the review. [28836/20] ",
+    "by": {
+     "memberCode": "Maurice-Quinlivan.D.2016-10-03",
+     "showAs": "Maurice Quinlivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maurice-Quinlivan.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_24",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 24
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_35.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_35",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_35"
+    },
+    "showAs": " 25. Deputy Mark Ward asked the Minister for Education if there is a delay in opening the ASD unit in a school (details supplied); the provisions available for students who were intended to attend the school in 2021; and if she will make a statement on the matter. [25991/20] ",
+    "by": {
+     "memberCode": "Mark-Ward.D.2019-11-29",
+     "showAs": "Mark Ward",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_25",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 25
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_36.xml"
+      }
+     },
+     "showAs": "Schools Building Projects",
+     "debateSectionId": "dbsect_36",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_36"
+    },
+    "showAs": " 26. Deputy Thomas Gould asked the Minister for Education the status of the new school building for a school (details supplied). [30266/20] ",
+    "by": {
+     "memberCode": "Thomas-Gould.D.2020-02-08",
+     "showAs": "Thomas Gould",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_26",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 26
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_37.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_37",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_37"
+    },
+    "showAs": " 27. Deputy Jennifer Carroll MacNeill asked the Minister for Education the progress being made on locating special classes within schools in south County Dublin; and if she will make a statement on the matter. [29996/20] ",
+    "by": {
+     "memberCode": "Jennifer-Carroll-MacNeill.D.2020-02-08",
+     "showAs": "Jennifer Carroll MacNeill",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Carroll-MacNeill.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_27",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 27
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_38.xml"
+      }
+     },
+     "showAs": "Schools Site Acquisitions",
+     "debateSectionId": "dbsect_38",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_38"
+    },
+    "showAs": " 28. Deputy Pádraig Mac Lochlainn asked the Minister for Education the status of negotiations to secure a site in Buncrana, County Donegal, for new school campuses for schools (details supplied). [29981/20] ",
+    "by": {
+     "memberCode": "Pádraig-MacLochlainn.D.2011-03-09",
+     "showAs": "Pádraig MacLochlainn",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_28",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 28
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_39.xml"
+      }
+     },
+     "showAs": "Schools Building Projects",
+     "debateSectionId": "dbsect_39",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_39"
+    },
+    "showAs": " 29. Deputy Niamh Smyth asked the Minister for Education the status of a new building for a school (details supplied); and if she will make a statement on the matter. [30215/20] ",
+    "by": {
+     "memberCode": "Niamh-Smyth.D.2016-10-03",
+     "showAs": "Niamh Smyth",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_29",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 29
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_40.xml"
+      }
+     },
+     "showAs": "State Examinations",
+     "debateSectionId": "dbsect_40",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_40"
+    },
+    "showAs": " 30. Deputy Donnchadh Ó Laoghaire asked the Minister for Education if the work carried out by a company (details supplied) on behalf of her Department regarding the calculated grades model was appropriately certified as in compliance with the standards expected by her Department; and if she plans to recoup payment on foot of the very significant errors which were made. [30280/20] ",
+    "by": {
+     "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+     "showAs": "Donnchadh Ó Laoghaire",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_30",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 30
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_41.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_41",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_41"
+    },
+    "showAs": " 31. Deputy Martin Kenny asked the Minister for Education if she will provide guidelines for schools, parents and children in which the parents of a schoolgoing child are considered high risk in terms of Covid-19 and by sending their children to school they are putting their own health at risk; and if she will make a statement on the matter. [30085/20] ",
+    "by": {
+     "memberCode": "Martin-Kenny.D.2016-10-03",
+     "showAs": "Martin Kenny",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_31",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 31
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_42.xml"
+      }
+     },
+     "showAs": "School Staff",
+     "debateSectionId": "dbsect_42",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_42"
+    },
+    "showAs": " 32. Deputy Marian Harkin asked the Minister for Education if she will engage with all parties representing school secretaries in order to find a resolution to the issue of equal pay for equal work. [30225/20] ",
+    "by": {
+     "memberCode": "Marian-Harkin.D.2002-06-06",
+     "showAs": "Marian Harkin",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marian-Harkin.D.2002-06-06"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_32",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 32
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_44.xml"
+      }
+     },
+     "showAs": "Covid-19 Pandemic",
+     "debateSectionId": "dbsect_44",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_44"
+    },
+    "showAs": " 33. Deputy Gino Kenny asked the Minister for Education the number of staff in secondary and primary schools confirmed as having contracted Covid-19 since schools reopened; the procedures for their return to work; and if she will make a statement on the matter. [30252/20] ",
+    "by": {
+     "memberCode": "Gino-Kenny.D.2016-10-03",
+     "showAs": "Gino Kenny",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gino-Kenny.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_33",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 33
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_45.xml"
+      }
+     },
+     "showAs": "State Examinations",
+     "debateSectionId": "dbsect_45",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_45"
+    },
+    "showAs": " 34. Deputy Mick Barry asked the Minister for Education the testing process to the calculated grade system prior to it being used; her views on whether the tests were robust enough; and if she will make a statement on the matter. [29991/20] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_34",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 34
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_46.xml"
+      }
+     },
+     "showAs": "School Accommodation",
+     "debateSectionId": "dbsect_46",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_46"
+    },
+    "showAs": " 35. Deputy Niamh Smyth asked the Minister for Education the status of an application by a school (details supplied); if same will be reviewed; and if she will make a statement on the matter. [30214/20] ",
+    "by": {
+     "memberCode": "Niamh-Smyth.D.2016-10-03",
+     "showAs": "Niamh Smyth",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_35",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 35
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_47.xml"
+      }
+     },
+     "showAs": "School Transport",
+     "debateSectionId": "dbsect_47",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_47"
+    },
+    "showAs": " 36. Deputy Pádraig Mac Lochlainn asked the Minister for Education her views on amending the requirement for Bus Éireann to secure the necessary buses and drivers to get school transport in County Donegal to 50% capacity; and if all parents currently seeking a place on their local school bus for their children will be facilitated first. [29982/20] ",
+    "by": {
+     "memberCode": "Pádraig-MacLochlainn.D.2011-03-09",
+     "showAs": "Pádraig MacLochlainn",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_36",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 36
+   },
+   "contextDate": "2020-10-14"
+  },
+  {
+   "question": {
+    "date": "2020-10-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/mul@/dbsect_48.xml"
+      }
+     },
+     "showAs": "Special Educational Needs",
+     "debateSectionId": "dbsect_48",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-10-14/writtens/dbsect_48"
+    },
+    "showAs": " 37. Deputy Mark Ward asked the Minister for Education when the new ASD unit will open in a school (details supplied); the reason for the delay; and if she will make a statement on the matter. [25990/20] ",
+    "by": {
+     "memberCode": "Mark-Ward.D.2019-11-29",
+     "showAs": "Mark Ward",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Education",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-10-14/pq_37",
+    "questionType": "written",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 37
+   },
+   "contextDate": "2020-10-14"
+  }
+ ]
+}
